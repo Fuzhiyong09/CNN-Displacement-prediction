@@ -1,0 +1,8 @@
+1 git init %初始化
+2 git remote add origin https://github.com/Fuzhiyong09/CNN-Displacement-prediction.git
+ %连接远端
+3 git status %查看git仓库状态
+4 可在本地上传文件 
+5 git add *
+6 git commit –m ‘first_commit‘
+7 git push –u origin master %远程推送
